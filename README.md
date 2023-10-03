@@ -1,5 +1,5 @@
-# futebol
+# Futebol
 
-Meu objetivo jogo do athleticoe coxa
+Meu objetivo e o jogo do athleticoe coxa
 
-sou aluno Diego Leme Calixto, estudo no Colegio Campos Sales, o projeto sera elaborado com estudantes do 1ª serie do ensino medio.
+Sou aluno Diego Leme Calixto, estudo no Colegio Campos Sales, o projeto sera elaborado com estudantes das 1ª séries do ensino medio.
